@@ -1,4 +1,4 @@
-import math
+import math#cronometro  1 integrante nombre:
 
 
 
@@ -97,7 +97,7 @@ import math
 
 
 
-#socios y ahorros
+#socios y ahorros  2 integrante nombre:
 
 
 
@@ -197,7 +197,7 @@ import math
 
 
 
-#prestamos
+#prestamos  1 integrante nombre:
 
 
 
@@ -297,7 +297,7 @@ import math
 
 
 
-#ganancias
+#ganancias  1 integrante nombre:
 
 
 
@@ -397,7 +397,7 @@ import math
 
 
 
-#reportes
+#reportes  1 integrante nombre:
 
 
 
