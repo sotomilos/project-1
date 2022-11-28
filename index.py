@@ -97,7 +97,7 @@ import math#cronometro  1 integrante nombre:
 
 
 
-#socios y ahorros  2 integrante nombre:
+#socios y ahorros  2 integrante nombre: Sebastian Orejuela Albornoz
 
 
 
