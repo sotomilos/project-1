@@ -197,7 +197,7 @@ import math#cronometro  1 integrante nombre:
 
 
 
-#prestamos  2 integrante nombre:
+#prestamos  2 integrante nombre:Jenifer Ortiz Torres
 
 
 
