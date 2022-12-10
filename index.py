@@ -397,7 +397,7 @@ import math#cronometro  1 integrante nombre:
 
 
 
-#reportes  1 integrante nombre:
+#reportes  1 integrante nombre: Miguel Angel Soto Espitia
 
 
 
